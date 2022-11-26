@@ -1,4 +1,4 @@
-8*{
+*{
     margin: 0;
     padding: 0;
 }
@@ -10,6 +10,9 @@ body i{
 }
 html{
     scroll-behavior: smooth;
+}
+.navbar-togler-icon i .fa{
+    color: #fff;
 }
 .collapse{
     display: flex;
@@ -949,6 +952,9 @@ footer>p{
         
         font-size: 30px;
     }
+
+}.navbar-togler-icon i .fa{
+    color: #fff;
 }
 @media only screen and (max-width: 1024px){
   
@@ -1009,6 +1015,9 @@ footer>p{
         width: 30px;
         height: 30px;
     }
+    .navbar-togler-icon i .fa{
+    color: #fff;
+}
 }
 @media only screen and (max-width: 1280px){
     .slider-text h1{
@@ -1048,4 +1057,7 @@ footer>p{
         width: 30px;
         height: 30px;
     }
+    .navbar-togler-icon i .fa{
+    color: #fff;
+}
 }
