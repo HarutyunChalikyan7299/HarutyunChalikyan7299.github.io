@@ -39,6 +39,9 @@ html{
 .section-header{
     padding-bottom: 30px;
 }
+.section-header h1{
+    font-size:24px;
+}
 .navbar-brand{
     color: #fff !important;
     text-transform: uppercase;
