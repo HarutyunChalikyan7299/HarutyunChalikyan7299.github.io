@@ -9,7 +9,7 @@ body i{
     font-size: 38px;
 }
 ::-webkit-scrollbar{
-    width: 15px;
+    width: 5px;
 }
 ::-webkit-scrollbar-track{
     background-color: black;
@@ -40,7 +40,8 @@ html{
     padding-bottom: 30px;
 }
 .section-header h1{
-    font-size:24px;
+    font-size: 24px;
+    padding: 10px;
 }
 .navbar-brand{
     color: #fff !important;
