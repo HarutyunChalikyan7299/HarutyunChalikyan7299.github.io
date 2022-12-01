@@ -30,7 +30,6 @@ html{
 }
 .collapse{
     display: flex;
-    justify-content: center;
     text-align: center;
 }
 .section-padding{
@@ -514,6 +513,8 @@ footer>p{
     }
     .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .single-service
     {
@@ -585,6 +586,8 @@ footer>p{
     }
     .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .single-service
     {
@@ -656,6 +659,8 @@ footer>p{
     }
     .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px; 
     }
     .single-service
     {
@@ -731,6 +736,8 @@ footer>p{
     }
 .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
 .slider-text #mini
     {
@@ -790,6 +797,8 @@ footer>p{
 }
 .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
 .slider-text #mini
     {
@@ -848,6 +857,8 @@ footer>p{
     }
     .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .slider-text
     {
@@ -929,6 +940,8 @@ footer>p{
     }
     .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .slider-text
     {
@@ -987,6 +1000,8 @@ footer>p{
     }
 .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .slider-text h1
     {
@@ -1040,6 +1055,8 @@ footer>p{
     }
 .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .single-service
     {
@@ -1106,6 +1123,8 @@ footer>p{
     }
 .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
 }
 @media only screen and (max-width: 1024px){
@@ -1117,6 +1136,8 @@ footer>p{
     }
 .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .slider-text .mini
     {
@@ -1178,6 +1199,8 @@ footer>p{
     }
     .navbar-toggler-icon I.fa{
         color: #fff;
+        Widht:45px;
+        height:45px;
     }
     .slider-text a{
         font-size: 28px;
